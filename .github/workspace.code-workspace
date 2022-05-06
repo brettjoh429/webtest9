@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\webtest7"
+		},
+		{
+			"name": "webtest7-1",
+			"path": "..\\..\\webtest7-1"
+		},
+		{
+			"name": "webtest8",
+			"path": "..\\..\\webtest8\\webtest8"
+		}
+	],
+	"settings": {}
+}
